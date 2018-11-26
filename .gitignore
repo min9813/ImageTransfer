@@ -8,8 +8,4 @@ __pycache__
 /result
 *.sh
 !/sample_image
-!/sample_image/cgan_mnist
-!/sample_image/cgan_cifar/*.png
-!/sample_image/cifar/*.png
-!/sample_image/mnist/*.png
 /common/dataset
