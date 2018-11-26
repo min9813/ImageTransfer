@@ -7,5 +7,5 @@ __pycache__
 .ipynb_checkpoints
 /result
 *.sh
-!/sample_image
+!/sample_image/*.png
 /common/dataset
